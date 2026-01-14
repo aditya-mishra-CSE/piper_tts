@@ -1,0 +1,14 @@
+streamlit
+langgraph
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+onnxruntime
+numpy
+soundfile
+pydub
+langgraph-checkpoint-sqlite
+langchain-huggingface 
+python-dotenv
